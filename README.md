@@ -1,4 +1,4 @@
-# Gaussian-Blur
+# Gaussian Blur
 
 ```sh
 gray = cv2.cvtColor(image_copy, cv2.COLOR_RGB2GRAY)
